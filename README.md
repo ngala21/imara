@@ -43,4 +43,4 @@ The project is not yet deployed as it is meant to run on host pc
 * **Ngala21** - *Initial work* - [Robot](https://github.com/ngala21)
 
 ## Support
-* Incase of any enquiries contact me 
+* Incase of any issues reach me on ngalamike21@gmail.com
