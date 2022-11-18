@@ -7,7 +7,7 @@ This is a template build on Procedural PHP that enables you to register and logi
 
 * `git clone this repo https://github.com/ngala21/imara.git`
 
-*move the project from your downloads folder to the htdocs directory
+* move the project `from your downloads folder to the htdocs directory`
 
 ##### Run the Project
 * import register.sql to create the database otherwise connection will fail.
