@@ -15,7 +15,6 @@ This is a template build on Procedural PHP that enables you to register and logi
 * Start Apache & MYSQL servers
 * Go to your browser and enter the url localhost/auth
 
-
  I don't have any application installed to run php😐
 
 #### Install PHP Application 
@@ -25,37 +24,11 @@ This is a template build on Procedural PHP that enables you to register and logi
 
 ### Environment requirements 
 
-*DB_HOST = "localhost"
-* DB_USER= database user of choice
-* DB_PASSWORD= database of choice
-* DB_HOST="127.0.0.1" on local
-* MODE= dev or prod , set to prod during production
+* DB_HOST = "localhost", "127.0.0.1" as we are running it locally
+* DB_USER= "root" is the default user
+* DB_PASSWORD = "" Initial password is empty but I changed mine
+* DB_NAME = name you have given you given your database
 * ALLOWED_HOSTS='.localhost', '.127.0.0.1' 
-
-
-## Running the tests
-
-Run tests by running the following :
-
-(venv)$ `python3.6 manage.py test photos`
-
-### Break down into end to end tests
-
-The tests will test the following features in the system :
-
-*  Image Model
-*  Location and Category models & methods in the models
-*  Image Model Methods
-*  Search Functionality
-*  Image Details
-*  Copy link functionality
-
-### And coding style tests
-
-The app does not need coding style tests according to its current scope
-
-
-## Built With
 
 * PHP
 * HTML5
@@ -63,7 +36,7 @@ The app does not need coding style tests according to its current scope
 
 ## Deployment 
 
-Please read [Deploy to Heroku :)](hhttps://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html) for details on our deployment of this app
+The project is not yet deployed as it is meant to run on host pc
 
 ## Authors
 
