@@ -41,7 +41,7 @@ The project is not yet deployed as it is meant to run on host pc
 
 ## Authors
 
-* **Ngala21** - *Initial work* - [Robot](https://github.com/ngala21)
+* **Ngala21** - [Robot](https://github.com/ngala21)
 
 ## Support
 * Incase of any issues reach me on ngalamike21@gmail.com
