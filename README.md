@@ -30,6 +30,7 @@ This is a template build on Procedural PHP that enables you to register and logi
 * DB_NAME = name you have given you given your database
 * ALLOWED_HOSTS='.localhost', '.127.0.0.1' 
 
+## Languages Used
 * PHP
 * HTML5
 * CSS
